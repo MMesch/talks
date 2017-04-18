@@ -43,8 +43,8 @@
      id="namedview17389"
      showgrid="false"
      inkscape:zoom="1.4438908"
-     inkscape:cx="428.72888"
-     inkscape:cy="215.1263"
+     inkscape:cx="373.32303"
+     inkscape:cy="159.72045"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -8328,43 +8328,43 @@
   </defs>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:14px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="26.201015"
+     style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="42.201015"
      y="179.6881"
      id="text18314"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan18316"
-       style="font-size:14px;stroke-linecap:butt;stroke-linejoin:round"
-       x="26.201015"
+       style="font-size:10px;stroke-linecap:butt;stroke-linejoin:round"
+       x="42.201015"
        y="179.6881">pressure model</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:14px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="212.10632"
+     style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="237.7063"
      y="179.6881"
      id="text18314-4"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
-       style="font-size:14px;stroke-linecap:butt;stroke-linejoin:round"
-       x="212.10632"
+       style="font-size:10px;stroke-linecap:butt;stroke-linejoin:round"
+       x="237.7063"
        y="179.6881"
        id="tspan18336">displacement that the pressure</tspan><tspan
        sodipodi:role="line"
-       style="font-size:14px;stroke-linecap:butt;stroke-linejoin:round"
-       x="212.10632"
-       y="197.1881"
+       style="font-size:10px;stroke-linecap:butt;stroke-linejoin:round"
+       x="237.7063"
+       y="192.1881"
        id="tspan18754">model generates at one station</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:14px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="501.70633"
+     style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="514.50635"
      y="179.6881"
      id="text18314-4-0"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
-       style="font-size:14px;stroke-linecap:butt;stroke-linejoin:round"
-       x="501.70633"
+       style="font-size:10px;stroke-linecap:butt;stroke-linejoin:round"
+       x="514.50635"
        y="179.6881"
        id="tspan18361">synthetic beam</tspan></text>
   <text
@@ -8405,25 +8405,25 @@
        y="28.253164">3</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="160.67697"
-     y="50.656387"
+     style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="167.07693"
+     y="57.056396"
      id="text18396"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan18398"
-       style="font-size:12px;stroke-linecap:butt;stroke-linejoin:round"
-       x="160.67697"
-       y="50.656387">resonance &amp;</tspan><tspan
+       style="font-size:10px;stroke-linecap:butt;stroke-linejoin:round"
+       x="167.07693"
+       y="57.056396">resonance &amp;</tspan><tspan
        sodipodi:role="line"
-       style="font-size:12px;stroke-linecap:butt;stroke-linejoin:round"
-       x="160.67697"
-       y="65.656387"
+       style="font-size:10px;stroke-linecap:butt;stroke-linejoin:round"
+       x="167.07693"
+       y="69.556396"
        id="tspan18400">propagation</tspan><tspan
        sodipodi:role="line"
-       style="font-size:12px;stroke-linecap:butt;stroke-linejoin:round"
-       x="160.67697"
-       y="80.656387"
+       style="font-size:10px;stroke-linecap:butt;stroke-linejoin:round"
+       x="167.07693"
+       y="82.056396"
        id="tspan18750">effects</tspan></text>
   <path
      style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.4000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker18436)"
@@ -8437,19 +8437,19 @@
      inkscape:connector-curvature="0" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="400.67697"
+     style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="410.27695"
      y="66.656387"
      id="text18396-1"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
-       style="font-size:12px;stroke-linecap:butt;stroke-linejoin:round"
-       x="400.67697"
+       style="font-size:10px;stroke-linecap:butt;stroke-linejoin:round"
+       x="410.27695"
        y="66.656387"
        id="tspan18750-4">array</tspan><tspan
        sodipodi:role="line"
-       style="font-size:12px;stroke-linecap:butt;stroke-linejoin:round"
-       x="400.67697"
-       y="81.656387"
+       style="font-size:10px;stroke-linecap:butt;stroke-linejoin:round"
+       x="410.27695"
+       y="79.156387"
        id="tspan18897">response</tspan></text>
 </svg>
