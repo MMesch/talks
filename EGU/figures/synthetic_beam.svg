@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -8367,42 +8367,6 @@
        x="514.50635"
        y="179.6881"
        id="tspan18361">synthetic beam</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="11.919835"
-     y="28.253164"
-     id="text18365"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan18367"
-       style="font-size:20px;stroke-linecap:butt;stroke-linejoin:round"
-       x="11.919835"
-       y="28.253164">1</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="247.88106"
-     y="28.74505"
-     id="text18369"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan18371"
-       style="font-size:20px;stroke-linecap:butt;stroke-linejoin:round"
-       x="247.88106"
-       y="28.74505">2</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="483.47473"
-     y="28.253164"
-     id="text18373"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan18375"
-       style="font-size:20px;stroke-linecap:butt;stroke-linejoin:round"
-       x="483.47473"
-       y="28.253164">3</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
