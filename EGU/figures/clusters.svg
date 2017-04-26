@@ -10,10 +10,10 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="182.66861pt"
+   height="319.21255pt"
    version="1.1"
-   viewBox="0 0 788.20612 182.66861"
-   width="788.20612pt"
+   viewBox="0 0 486.60529 319.21256"
+   width="486.60529pt"
    id="svg74143"
    inkscape:version="0.91 r"
    sodipodi:docname="clusters.svg">
@@ -38,7 +38,7 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1983"
+     inkscape:window-width="1855"
      inkscape:window-height="1056"
      id="namedview86471"
      showgrid="false"
@@ -48,7 +48,7 @@
      fit-margin-bottom="2"
      inkscape:zoom="1.020985"
      inkscape:cx="470.86608"
-     inkscape:cy="128.08292"
+     inkscape:cy="327.45456"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -80,7 +80,7 @@
   <g
      id="figure_1"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-137.39279,68.700628)">
+     transform="translate(-137.39279,45.747288)">
     <g
        id="axes_1"
        transform="translate(-32,-29.933031)"
@@ -14698,7 +14698,7 @@
     </g>
     <g
        id="axes_3"
-       transform="translate(251.67794,-105.39888)"
+       transform="translate(283.67794,-41.39888)"
        style="stroke-linecap:butt;stroke-linejoin:round">
       <g
          id="patch_6"
@@ -22003,7 +22003,7 @@
     </g>
     <g
        id="axes_4"
-       transform="translate(251.05154,-105.39888)"
+       transform="translate(-172.94846,38.60112)"
        style="stroke-linecap:butt;stroke-linejoin:round">
       <g
          id="patch_8"
@@ -29308,7 +29308,7 @@
     </g>
     <g
        id="axes_5"
-       transform="translate(535.35596,-180.86472)"
+       transform="translate(111.35596,-36.86472)"
        style="stroke-linecap:butt;stroke-linejoin:round">
       <g
          id="patch_10"
@@ -36613,7 +36613,7 @@
     </g>
     <g
        id="axes_6"
-       transform="translate(128.87979,56.67328)"
+       transform="translate(128.87979,47.07328)"
        style="stroke-linecap:butt;stroke-linejoin:round">
       <g
          id="patch_12"
@@ -36959,7 +36959,7 @@
     </g>
     <g
        id="axes_7"
-       transform="translate(270.71877,16.03558)"
+       transform="translate(270.71877,6.43558)"
        style="stroke-linecap:butt;stroke-linejoin:round">
       <g
          id="patch_18"
@@ -37289,7 +37289,7 @@
     </g>
     <g
        id="axes_8"
-       transform="translate(411.00775,-24.60212)"
+       transform="translate(443.00775,39.39788)"
        style="stroke-linecap:butt;stroke-linejoin:round">
       <g
          id="patch_24"
@@ -37555,7 +37555,7 @@
     </g>
     <g
        id="axes_9"
-       transform="translate(554.3968,-65.23982)"
+       transform="translate(130.3968,70.76018)"
        style="stroke-linecap:butt;stroke-linejoin:round">
       <g
          id="patch_30"
@@ -37885,7 +37885,7 @@
     </g>
     <g
        id="axes_10"
-       transform="translate(696.23575,-105.87752)"
+       transform="translate(272.23575,30.12248)"
        style="stroke-linecap:butt;stroke-linejoin:round">
       <g
          id="patch_36"
@@ -38220,7 +38220,7 @@
     </g>
     <g
        id="axes_11"
-       transform="matrix(0,-1,1,0,702.46768,426.17089)"
+       transform="translate(144.13478,7.3304451)"
        style="stroke-linecap:butt;stroke-linejoin:round">
       <g
          id="patch_42"
@@ -38488,7 +38488,7 @@
     </g>
     <g
        id="legend_1"
-       transform="translate(711.41801,35.521299)"
+       transform="translate(442.32908,109.17566)"
        style="stroke-linecap:butt;stroke-linejoin:round">
       <g
          id="patch_46"
@@ -38793,33 +38793,39 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:14px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="146.9985"
-       y="-56.063915"
+       x="181.47502"
+       y="-33.110569"
        id="text87283"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan87285"
          style="font-size:14px;stroke-linecap:butt;stroke-linejoin:round"
-         x="146.9985"
-         y="-56.063915">low frequency cluster</tspan></text>
+         x="181.47502"
+         y="-33.110569">low frequency cluster</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:14px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="706.99854"
-       y="-56.063915"
+       x="195.33578"
+       y="268.55316"
        id="text87283-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan87285-4"
          style="font-size:14px;stroke-linecap:butt;stroke-linejoin:round"
-         x="706.99854"
-         y="-56.063915">high frequency cluster</tspan></text>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:1.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
-       d="m 427.26024,-61.548813 162.16778,0"
-       id="path87305"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+         x="195.33578"
+         y="268.55316">high frequency cluster</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="458.7233"
+       y="19.984312"
+       id="text87283-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan87285-6"
+         style="font-size:14px;stroke-linecap:butt;stroke-linejoin:round"
+         x="458.7233"
+         y="19.984312">mid frequency cluster</tspan></text>
   </g>
   <defs
      id="defs86421">
